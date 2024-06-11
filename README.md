@@ -51,6 +51,11 @@
 <img width="575" alt="PBI Hospital Wait List 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/69383ce5-1e1c-48e7-b759-25ead537cc7c">
 <img width="574" alt="PBI Hospital Wait List 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/6f7717b5-79f4-439d-a428-620387ee2d0e">
 
+<b>6. CRM Sales Opportunities- Google Sheet</b>
+ - B2B sales pipeline data from a fictitious company that sells computer hardware.
+ - First explore the sales pipeline dataset, conduct some basic data QA and profiling, and join it with the sales team table to prepare the data for analysis.
+ - Second, slice and dice the sales pipeline data with pivot tables, and create views to analyze quarterly trends and sales agent performance.
+ - Visualize the data with charts and add filters to design an interactive dashboard for sales agents to track quarterly performance.
+ - <img width="602" alt="GoogleSheetCRM" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/352449b0-dbd7-49fa-b2ed-e9c29cb15ee3">
 
-  
   
