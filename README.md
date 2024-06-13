@@ -30,28 +30,34 @@
   Click below hyperlink to read Diwali sale file and complete readme.</b>
   [Diwali Delights Sale](https://github.com/RoochieSumaria/Diwali-Delights-Sales-Performance-Analysis)
 
-<b>4. Classic Model Sales Analysis (Power BI)<br/>
+<b>4. Toy Story Analysis Power BI  (Personal Project)<br/>
+  Click below hyperlink to read Toy Story Analysis file and complete readme.</b>
+  [Toy Story Analysis](https://github.com/RoochieSumaria/Toy-Story-Analysis-)
+  <img width="676" alt="ToyStoreAnalysis" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/a1440975-3a54-49f1-812b-b80a0a341ef1">
+
+  
+<b>5. Classic Model Sales Analysis (Power BI)<br/>
   Click this link for complete Readme file and ppt</b>
   [Classic Model Sales Analysis](https://github.com/RoochieSumaria/Classic-Model-Sales-Analysis)
   <img width="677" alt="Dashboard 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/5a2b8687-c475-4f11-a2b9-5e274c76bdb9">
   <img width="676" alt="Dashboard 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/0f9c63f0-48b4-4882-96f5-5a87578f431c">
   <img width="686" alt="Dashboard 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/65bed804-52bb-470a-a7cd-4bb25ec540a9">
   
-<b>5. Sales Analysis of Adventure Works  -Power BI  (Personal Project)</b>
+<b>6. Sales Analysis of Adventure Works  -Power BI  (Personal Project)</b>
 - Adventure Works database, focusing specifically on the sales aspects of the fictitious company Adventure Works Cycles.
 - It captures the sales transactions, customer data, sells bicycles, related products and related sales operations.
   <img width="635" alt="Power Bi screenshot1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/a714d20c-4460-41ce-8ed7-20eabe534003">
   <img width="633" alt="Power Bi screenshot2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/dce1aea9-3a5a-462d-90b2-51c333af0663">
   <img width="634" alt="Power Bi Screen3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/828bbc50-6514-4fb4-a151-277b6f7ca4a7">
 
-<b>6. Hospital Outpatient/Inpatient Analysis Report-Power BI  (Personal Project)</b>
+<b>7. Hospital Outpatient/Inpatient Analysis Report-Power BI  (Personal Project)</b>
 - Analyze historical monthly trend of waiting list of Outpatient and in-patient.
 - Detailed speciality level and age profile analysis.
 - Track current status of patient waiting list.
 <img width="575" alt="PBI Hospital Wait List 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/69383ce5-1e1c-48e7-b759-25ead537cc7c">
 <img width="574" alt="PBI Hospital Wait List 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/6f7717b5-79f4-439d-a428-620387ee2d0e">
 
-<b>6. CRM Sales Opportunities- Google Sheet</b>
+<b>8. CRM Sales Opportunities- Google Sheet</b>
  - B2B sales pipeline data from a fictitious company that sells computer hardware.
  - First explore the sales pipeline dataset, conduct some basic data QA and profiling, and join it with the sales team table to prepare the data for analysis.
  - Second, slice and dice the sales pipeline data with pivot tables, and create views to analyze quarterly trends and sales agent performance.
