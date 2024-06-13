@@ -27,12 +27,14 @@
 
   
 <b>3. Diwali Delights Sale -Using Python  (Personal Project)<br/>
-  Click below hyperlink to read Diwali sale file and complete readme.</b>
+  Click this hyperlink to read Diwali sale file and complete readme.</b>
   [Diwali Delights Sale](https://github.com/RoochieSumaria/Diwali-Delights-Sales-Performance-Analysis)
 
 <b>4. Toy Story Analysis Power BI  (Personal Project)<br/>
-  Click below hyperlink to read Toy Story Analysis file and complete readme.</b>
+  Click this hyperlink to read Toy Story Analysis file and complete readme.</b>
   [Toy Story Analysis](https://github.com/RoochieSumaria/Toy-Story-Analysis-)
+
+  
   <img width="676" alt="ToyStoreAnalysis" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/a1440975-3a54-49f1-812b-b80a0a341ef1">
 
   
