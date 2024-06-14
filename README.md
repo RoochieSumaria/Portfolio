@@ -21,17 +21,19 @@
   Click this link for complete Readme file and ppt</b>
   [Classic Model Sales Analysis](https://github.com/RoochieSumaria/Classic-Model-Sales-Analysis)
   <img width="677" alt="Dashboard 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/5a2b8687-c475-4f11-a2b9-5e274c76bdb9">
+  
   <img width="676" alt="Dashboard 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/0f9c63f0-48b4-4882-96f5-5a87578f431c">
+  
   <img width="686" alt="Dashboard 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/65bed804-52bb-470a-a7cd-4bb25ec540a9">
   
 <b>4. Sales Analysis of Adventure Works  -Power BI  (Personal Project)</b>
 - Adventure Works database, focusing specifically on the sales aspects of the fictitious company Adventure Works Cycles.
 - It captures the sales transactions, customer data, sells bicycles, related products and related sales operations.
   <img width="668" alt="AW Analysis 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/e0c46abd-8360-464c-89d7-4847af37420d">
-<img width="664" alt="AW Analysis 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/47a3653e-f770-4eaf-a14e-5e2cad324919">
-<img width="665" alt="AW Analysis 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/3b10f558-8dce-4b2f-9156-bbbfe0475d0a">
-<img width="673" alt="AW Analysis 4" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/b9193703-5c6f-4e15-ada1-d592da5a6d1e">
-<img width="668" alt="AW Analysis 5" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/ecd81d42-c2c1-4396-8bb2-3d4265ceb025">
+  <img width="664" alt="AW Analysis 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/47a3653e-f770-4eaf-a14e-5e2cad324919">
+  <img width="665" alt="AW Analysis 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/3b10f558-8dce-4b2f-9156-bbbfe0475d0a">
+  <img width="673" alt="AW Analysis 4" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/b9193703-5c6f-4e15-ada1-d592da5a6d1e">
+  <img width="668" alt="AW Analysis 5" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/ecd81d42-c2c1-4396-8bb2-3d4265ceb025">
 
 
 <b>5. Exploring Hotel Booking Data (python)<br/>
