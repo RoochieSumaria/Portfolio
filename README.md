@@ -10,7 +10,31 @@
 <img width="917" alt="Excel project 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/1caa0f70-3073-4025-aa6f-0062e1beb123">
 
 
-<b>2. Exploring Hotel Booking Data (python)<br/>
+<b>2. Toy Story Analysis Power BI  (Personal Project)<br/>
+  Click this hyperlink to read Toy Story Analysis file and complete readme.</b>
+  [Toy Story Analysis](https://github.com/RoochieSumaria/Toy-Story-Analysis-)
+  
+  <img width="676" alt="ToyStoreAnalysis" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/a1440975-3a54-49f1-812b-b80a0a341ef1">
+
+  
+<b>3. Classic Model Sales Analysis (Power BI)<br/>
+  Click this link for complete Readme file and ppt</b>
+  [Classic Model Sales Analysis](https://github.com/RoochieSumaria/Classic-Model-Sales-Analysis)
+  <img width="677" alt="Dashboard 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/5a2b8687-c475-4f11-a2b9-5e274c76bdb9">
+  <img width="676" alt="Dashboard 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/0f9c63f0-48b4-4882-96f5-5a87578f431c">
+  <img width="686" alt="Dashboard 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/65bed804-52bb-470a-a7cd-4bb25ec540a9">
+  
+<b>4. Sales Analysis of Adventure Works  -Power BI  (Personal Project)</b>
+- Adventure Works database, focusing specifically on the sales aspects of the fictitious company Adventure Works Cycles.
+- It captures the sales transactions, customer data, sells bicycles, related products and related sales operations.
+  <img width="668" alt="AW Analysis 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/e0c46abd-8360-464c-89d7-4847af37420d">
+<img width="664" alt="AW Analysis 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/47a3653e-f770-4eaf-a14e-5e2cad324919">
+<img width="665" alt="AW Analysis 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/3b10f558-8dce-4b2f-9156-bbbfe0475d0a">
+<img width="673" alt="AW Analysis 4" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/b9193703-5c6f-4e15-ada1-d592da5a6d1e">
+<img width="668" alt="AW Analysis 5" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/ecd81d42-c2c1-4396-8bb2-3d4265ceb025">
+
+
+<b>5. Exploring Hotel Booking Data (python)<br/>
   Click this link for complete Readme file and ppt</b>
   [Hotel Booking Data](https://github.com/RoochieSumaria/Exploring-Hotel-Booking-Data--Using-Python)
 
@@ -26,32 +50,11 @@
 ![Booking(both hotels)](https://github.com/RoochieSumaria/Portfolio/assets/168714680/bdd1d2ca-aaa4-4b10-939b-e7cbf705c435)
 
   
-<b>3. Diwali Delights Sale -Using Python  (Personal Project)<br/>
+<b>6. Diwali Delights Sale -Using Python  (Personal Project)<br/>
   Click this hyperlink to read Diwali sale file and complete readme.</b>
   [Diwali Delights Sale](https://github.com/RoochieSumaria/Diwali-Delights-Sales-Performance-Analysis)
 
-<b>4. Toy Story Analysis Power BI  (Personal Project)<br/>
-  Click this hyperlink to read Toy Story Analysis file and complete readme.</b>
-  [Toy Story Analysis](https://github.com/RoochieSumaria/Toy-Story-Analysis-)
-
   
-  <img width="676" alt="ToyStoreAnalysis" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/a1440975-3a54-49f1-812b-b80a0a341ef1">
-
-  
-<b>5. Classic Model Sales Analysis (Power BI)<br/>
-  Click this link for complete Readme file and ppt</b>
-  [Classic Model Sales Analysis](https://github.com/RoochieSumaria/Classic-Model-Sales-Analysis)
-  <img width="677" alt="Dashboard 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/5a2b8687-c475-4f11-a2b9-5e274c76bdb9">
-  <img width="676" alt="Dashboard 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/0f9c63f0-48b4-4882-96f5-5a87578f431c">
-  <img width="686" alt="Dashboard 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/65bed804-52bb-470a-a7cd-4bb25ec540a9">
-  
-<b>6. Sales Analysis of Adventure Works  -Power BI  (Personal Project)</b>
-- Adventure Works database, focusing specifically on the sales aspects of the fictitious company Adventure Works Cycles.
-- It captures the sales transactions, customer data, sells bicycles, related products and related sales operations.
-  <img width="635" alt="Power Bi screenshot1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/a714d20c-4460-41ce-8ed7-20eabe534003">
-  <img width="633" alt="Power Bi screenshot2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/dce1aea9-3a5a-462d-90b2-51c333af0663">
-  <img width="634" alt="Power Bi Screen3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/828bbc50-6514-4fb4-a151-277b6f7ca4a7">
-
 <b>7. Hospital Outpatient/Inpatient Analysis Report-Power BI  (Personal Project)</b>
 - Analyze historical monthly trend of waiting list of Outpatient and in-patient.
 - Detailed speciality level and age profile analysis.
@@ -65,5 +68,3 @@
  - Second, slice and dice the sales pipeline data with pivot tables, and create views to analyze quarterly trends and sales agent performance.
  - Visualize the data with charts and add filters to design an interactive dashboard for sales agents to track quarterly performance.
  - <img width="602" alt="GoogleSheetCRM" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/352449b0-dbd7-49fa-b2ed-e9c29cb15ee3">
-
-  
