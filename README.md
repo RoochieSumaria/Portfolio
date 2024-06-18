@@ -29,11 +29,11 @@
 <b>4. Sales Analysis of Adventure Works  -Power BI  (Personal Project)</b>
 - Adventure Works database, focusing specifically on the sales aspects of the fictitious company Adventure Works Cycles.
 - It captures the sales transactions, customer data, sells bicycles, related products and related sales operations.
-  <img width="668" alt="AW Analysis 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/e0c46abd-8360-464c-89d7-4847af37420d">
-  <img width="664" alt="AW Analysis 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/47a3653e-f770-4eaf-a14e-5e2cad324919">
-  <img width="665" alt="AW Analysis 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/3b10f558-8dce-4b2f-9156-bbbfe0475d0a">
-  <img width="673" alt="AW Analysis 4" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/b9193703-5c6f-4e15-ada1-d592da5a6d1e">
-  <img width="668" alt="AW Analysis 5" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/ecd81d42-c2c1-4396-8bb2-3d4265ceb025">
+<img width="668" alt="AW Analysis 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/68fed633-d641-49d5-a07a-45e7cc3ec4ad">
+<img width="665" alt="AW Analysis 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/979244a3-7edb-46c7-a064-6bd3496fcb56">
+<img width="670" alt="AW Analysis 3" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/9d04884f-565d-447e-bab9-8592cbbba441">
+<img width="667" alt="AW Analysis 4" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/6af24e3b-5d3c-45fa-bbd7-8eddd7b2daa3">
+<img width="672" alt="AW Analysis 5" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/97e4f4f8-6e92-49cf-b164-b071b88dd3e2">
 
 
 <b>5. Exploring Hotel Booking Data (python)<br/>
