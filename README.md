@@ -56,15 +56,17 @@
   Click this hyperlink to read Diwali sale file and complete readme.</b>
   [Diwali Delights Sale](https://github.com/RoochieSumaria/Diwali-Delights-Sales-Performance-Analysis)
 
-  
-<b>7. Hospital Outpatient/Inpatient Analysis Report-Power BI  (Personal Project)</b>
+<b>7. Healthcare provider Dashboard-Power BI  (Personal Project)</b> 
+<img width="670" alt="Healthcare Dashboard" src="https://github.com/user-attachments/assets/e3fa103f-13b6-4180-81cc-bbe2be5c90de">
+
+<b>8. Hospital Outpatient/Inpatient Analysis Report-Power BI  (Personal Project)</b>
 - Analyze historical monthly trend of waiting list of Outpatient and in-patient.
 - Detailed speciality level and age profile analysis.
 - Track current status of patient waiting list.
 <img width="575" alt="PBI Hospital Wait List 1" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/69383ce5-1e1c-48e7-b759-25ead537cc7c">
 <img width="574" alt="PBI Hospital Wait List 2" src="https://github.com/RoochieSumaria/Portfolio/assets/168714680/6f7717b5-79f4-439d-a428-620387ee2d0e">
 
-<b>8. CRM Sales Opportunities- Google Sheet</b>
+<b>9. CRM Sales Opportunities- Google Sheet</b>
  - B2B sales pipeline data from a fictitious company that sells computer hardware.
  - First explore the sales pipeline dataset, conduct some basic data QA and profiling, and join it with the sales team table to prepare the data for analysis.
  - Second, slice and dice the sales pipeline data with pivot tables, and create views to analyze quarterly trends and sales agent performance.
